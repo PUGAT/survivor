@@ -1,0 +1,4 @@
+karakterHareket(kod)
+düþman(kod)
+ortam(model)
+karakter(model)
